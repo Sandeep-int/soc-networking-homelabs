@@ -35,4 +35,5 @@ commonly encountered in enterprise environments.
 - Improved SOC Level 1 troubleshooting mindset
 
 ## Evidence
-See the attached PDF for error screenshots and resolution proof.
+- [View Lab Evidence – Network Topology & Configuration (PDF)](Task-2.pdf)
+
