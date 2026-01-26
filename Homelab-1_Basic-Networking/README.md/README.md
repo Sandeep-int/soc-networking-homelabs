@@ -28,4 +28,5 @@ network communication between devices.
 - Built foundation for detecting abnormal network activity
 
 ## Evidence
-Refer to the attached PDF for topology and configuration screenshots.
+- [View Lab Evidence – Network Topology & Configuration (PDF)](Task-1.pdf)
+
