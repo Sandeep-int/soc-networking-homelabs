@@ -37,4 +37,5 @@ implement inter-VLAN routing for controlled communication.
 - Practiced escalation-ready troubleshooting
 
 ## Evidence
-Refer to the attached PDF for topology and configuration details.
+- [View Lab Evidence – Network Topology & Configuration (PDF)](Task-3.pdf)
+
