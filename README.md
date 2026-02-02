@@ -1,2 +1,2 @@
-# soc-networking-homelabs
-SOC-focused networking and security homelabs using Cisco Packet Tracer
+# Networking-homelabs
+Networking and security homelabs using Cisco Packet Tracer
